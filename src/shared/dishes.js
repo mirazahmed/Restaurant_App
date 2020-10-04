@@ -93,12 +93,12 @@ export const DISHES =
             ] },
         {
         id: 2,
-        name:'Donut',
+        name:'Vadonut',
         image: 'assets/images/donut.png',
         category: 'appetizer',
         label:'New',
         price:'1.99',
-        description:'A quintessential ConFusion experience',
+        description:'A quintessential ConFusion experience, is it a vada or is it a donut?',
         comments: [
             {
             id: 0,
